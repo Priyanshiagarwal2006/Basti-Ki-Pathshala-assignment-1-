@@ -14,14 +14,29 @@ Lists the key services provided by the foundation
 
 Each service can be displayed using Bootstrap cards or columns.
 
-4. About Us Section
+3. About Us Section
 A short paragraph describing:
 
 “Basti Ki Pathshala Foundation is a grassroots initiative focused on delivering free education and life skills to children in underserved communities. Our goal is to create equal opportunities for all through learning.”
 
 Styled using Bootstrap typography and layout classes for clean presentation.
 
-4. Footer
+4. Volunteer Form Page
+A functional volunteer registration form where users can submit their interest in joining the foundation.
+
+Fields to include:
+
+Full Name
+
+Email
+
+Phone Number
+
+Adress
+
+Use Bootstrap Form components for clean, responsive design.
+
+5. Footer
 A simple footer included on every page, with:
 
 Copyright
