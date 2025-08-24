@@ -61,3 +61,5 @@ Folder structure
 How Bootstrap was used
 
 Design and layout choice
+
+![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Basti-Ki-Pathshala-assignment-1-/blob/main/basti.jpg)
